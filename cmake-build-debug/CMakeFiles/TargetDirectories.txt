@@ -1,0 +1,3 @@
+C:/Users/sc/Documents/MY GITHUB REPOS/CODECRAFT_SD_02/cmake-build-debug/CMakeFiles/CODECRAFT_SD_02.dir
+C:/Users/sc/Documents/MY GITHUB REPOS/CODECRAFT_SD_02/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/sc/Documents/MY GITHUB REPOS/CODECRAFT_SD_02/cmake-build-debug/CMakeFiles/rebuild_cache.dir
