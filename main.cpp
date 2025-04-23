@@ -5,10 +5,10 @@
 using namespace std;
 
 int main() {
-    // Seed random number generator
+    // To Seed random number generator
     srand(time(0));
 
-    // Generate a random number between 1 and 100
+    // To Generate a random number between 1 and 100
     int secretNumber = rand() % 100 + 1;
     int guess;
     int attempts = 0;
